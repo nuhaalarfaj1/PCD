@@ -127,3 +127,15 @@ footer{
   body{
     background-color: rgb(247, 239, 199);
   }
+  p{
+    width: 50%;
+  }
+  li {
+    padding-top: 1px;
+	display: inline-block;
+  margin: 0 2px;}
+  a{
+    font-size: 20px;
+  }
+    
+  }
